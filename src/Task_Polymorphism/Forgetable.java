@@ -1,4 +1,4 @@
-package Task_Polyformism;
+package Task_Polymorphism;
 
 public class Forgetable extends Movie {
     public Forgetable(){
