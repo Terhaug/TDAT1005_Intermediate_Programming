@@ -1,4 +1,4 @@
-package Task_Polyformism;
+package Task_Polymorphism;
 
 public class LordOfTheRing extends Movie{
     public LordOfTheRing(){
