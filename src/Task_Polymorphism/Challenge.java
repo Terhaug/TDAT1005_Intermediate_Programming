@@ -1,4 +1,4 @@
-package Task_Polyformism;
+package Task_Polymorphism;
 
 class Car{
     private boolean engine;
