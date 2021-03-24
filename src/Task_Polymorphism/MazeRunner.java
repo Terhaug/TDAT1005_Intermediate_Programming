@@ -1,4 +1,4 @@
-package Task_Polyformism;
+package Task_Polymorphism;
 
 public class MazeRunner extends Movie{
     public MazeRunner(){
